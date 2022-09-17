@@ -17,6 +17,9 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+[![Zulqarnain Medium](https://github-readme-medium.vercel.app/?username=alphatech345&limit=1&bg=222f2e&text=ff0000)](https://medium.com/@alphatech345)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammad zulqarnain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad zulqarnain" height="30" width="40" /></a>
