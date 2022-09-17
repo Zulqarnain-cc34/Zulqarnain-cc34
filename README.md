@@ -20,10 +20,11 @@
 [![Zulqarnain Medium](https://github-readme-medium.vercel.app/?username=alphatech345&limit=1&bg=222f2e&text=ff0000)](https://medium.com/@alphatech345)
 
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammad zulqarnain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad zulqarnain" height="30" width="40" /></a>
-<a href="https://fb.com/muhammad zulqarnain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad zulqarnain" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammad-zulqarnain-a29664247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-zulqarnain-a29664247" height="30" width="40" /></a>
+<a href="https://fb.com/muhammad.zulqarnain.12139862" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad.zulqarnain.12139862" height="30" width="40" /></a>
 <a href="https://medium.com/@alphatech345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alphatech345" height="30" width="40" /></a>
 </p>
 
