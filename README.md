@@ -5,9 +5,10 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Zulqarnain-cc34](https://github.com/Zulqarnain-cc34)
 
-- 📝 I regularly write articles on [https://medium.com/@alphatech345](https://medium.com/@alphatech345)
-
-- 💬 Ask me about **react,graphql and pytorch**
+<!-- - 📝 I regularly write articles on [https://medium.com/@alphatech345](https://medium.com/@alphatech345)
+ -->
+ 
+- 💬 Ask me about **AI,nlp and pytorch**
 
 - 📫 How to reach me **alphatech345@protonmail.com**
 
