@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zulqarnain</h1>
-<h3 align="center">A passionate Machine Learning Engineer and Backend Developer from Pakistan</h3>
+<h3 align="center">A passionate Machine Learning Engineer and Full Stack Web Developer</h3>
 
-- 🌱 I’m currently learning **Pytorch,**
+- 🌱 I’m currently learning **Langchain, Advanced AI Augmentation Techniques and Natural Language Processing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Zulqarnain-cc34](https://github.com/Zulqarnain-cc34)
 
@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **react,graphql and pytorch**
 
-- 📫 How to reach me **powerranger16918@gmail.com**
+- 📫 How to reach me **alphatech345@protonmail.com**
 
-- ⚡ Fun fact **I think I am a light headed and cool person.**
+- ⚡ Fun fact **I think I am a light headed and enthusiastic person. When i focus on one thing i get it done no matter what.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
