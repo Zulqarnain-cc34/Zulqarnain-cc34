@@ -14,13 +14,6 @@
 
 - ⚡ Fun fact **I think I am a light headed and enthusiastic person. When i focus on one thing i get it done no matter what.**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-[![Zulqarnain Medium](https://github-readme-medium.vercel.app/?username=alphatech345&limit=1&bg=222f2e&text=ff0000)](https://medium.com/@alphatech345)
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
