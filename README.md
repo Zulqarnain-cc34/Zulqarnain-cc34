@@ -8,7 +8,7 @@
 <!-- - 📝 I regularly write articles on [https://medium.com/@alphatech345](https://medium.com/@alphatech345)
  -->
  
-- 💬 Ask me about **AI,nlp and pytorch**
+- 💬 Ask me about **AI,Full Stack and Software development**
 
 - 📫 How to reach me **alphatech345@protonmail.com**
 
