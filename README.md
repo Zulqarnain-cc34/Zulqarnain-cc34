@@ -105,7 +105,7 @@
 
 <p align="center">
   <a href="https://github.com/Zulqarnain-cc34/github-stats">
-    <img src="https://github.com/Zulqarnain-cc34/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" alt="overview stats" />
-    <img src="https://github.com/Zulqarnain-cc34/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" alt="language stats" />
+    <img src="https://raw.githubusercontent.com/Zulqarnain-cc34/github-stats/generated/overview.svg" alt="overview stats" />
+    <img src="https://raw.githubusercontent.com/Zulqarnain-cc34/github-stats/generated/languages.svg" alt="language stats" />
   </a>
 </p>
