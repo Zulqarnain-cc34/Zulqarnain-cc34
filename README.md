@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-zulqarnain-a29664247"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://medium.com/@alphatech345"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
   <a href="https://www.facebook.com/muhammad.zulqarnain.12139862"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="mailto:alphatech345@protonmail.com"><img src="https://img.shields.io/badge/Protonmail-6D4AFF?style=flat-square&logo=protonmail&logoColor=white" alt="Email"></a>
   <img src="https://komarev.com/ghpvc/?username=Zulqarnain-cc34&style=flat-square&color=7aa2f7" alt="Profile views">
