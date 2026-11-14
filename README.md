@@ -104,10 +104,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zulqarnain-cc34&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zulqarnain-cc34&layout=compact&theme=tokyonight&hide_border=true" alt="top languages">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zulqarnain-cc34&theme=tokyonight&hide_border=true" alt="streak">
+  <a href="https://github.com/Zulqarnain-cc34/github-stats">
+    <img src="https://github.com/Zulqarnain-cc34/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" alt="overview stats" />
+    <img src="https://github.com/Zulqarnain-cc34/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" alt="language stats" />
+  </a>
 </p>
