@@ -1,30 +1,114 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zulqarnain</h1>
-<h3 align="center">A passionate Machine Learning Engineer and Full Stack Web Developer</h3>
+<h3 align="center">Machine Learning Engineer &amp; Full-Stack Web Developer</h3>
 
-- 🌱 I’m currently learning **Langchain, Advanced AI Augmentation Techniques and Natural Language Processing**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Zulqarnain-cc34](https://github.com/Zulqarnain-cc34)
-
-<!-- - 📝 I regularly write articles on [https://medium.com/@alphatech345](https://medium.com/@alphatech345)
- -->
- 
-- 💬 Ask me about **AI,Full Stack and Software development**
-
-- 📫 How to reach me **alphatech345@protonmail.com**
-
-- ⚡ Fun fact **I think I am a light headed and enthusiastic person. When i focus on one thing i get it done no matter what.**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammad-zulqarnain-a29664247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-zulqarnain-a29664247" height="30" width="40" /></a>
-<a href="https://fb.com/muhammad.zulqarnain.12139862" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad.zulqarnain.12139862" height="30" width="40" /></a>
-<a href="https://medium.com/@alphatech345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alphatech345" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-zulqarnain-a29664247"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://medium.com/@alphatech345"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://www.facebook.com/muhammad.zulqarnain.12139862"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="mailto:alphatech345@protonmail.com"><img src="https://img.shields.io/badge/Protonmail-6D4AFF?style=flat-square&logo=protonmail&logoColor=white" alt="Email"></a>
+  <img src="https://komarev.com/ghpvc/?username=Zulqarnain-cc34&style=flat-square&color=7aa2f7" alt="Profile views">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zulqarnain-cc34&show_icons=true&locale=en" alt="zulqarnain-cc34" /></p>
+### 🧠 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zulqarnain-cc34&" alt="zulqarnain-cc34" /></p>
+- 🔭 I build **machine-learning systems** and **full-stack web apps**, end to end.
+- 🌱 Currently deepening **LangChain**, advanced **AI augmentation**, and **NLP**.
+- 🐧 Linux tinkerer who lives in the terminal — Neovim, and a hand-rolled Arch / BSPWM [dotfiles](https://github.com/Zulqarnain-cc34/dotfiles) setup.
+- 💬 Ask me about **AI, full-stack, and software design**.
+- 📫 Reach me at **alphatech345@protonmail.com**.
+- ⚡ Fun fact: light-headed, enthusiastic, and mildly obsessed with finishing what I start.
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Zulqarnain-cc34/dotfiles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Zulqarnain-cc34&repo=dotfiles&theme=tokyonight&hide_border=true" alt="dotfiles"></a></td>
+    <td align="center"><a href="https://github.com/Zulqarnain-cc34/LetsChat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Zulqarnain-cc34&repo=LetsChat&theme=tokyonight&hide_border=true" alt="LetsChat"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Zulqarnain-cc34/Wolframalpha_Langchain"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Zulqarnain-cc34&repo=Wolframalpha_Langchain&theme=tokyonight&hide_border=true" alt="Wolframalpha_Langchain"></a></td>
+    <td align="center"><a href="https://github.com/Zulqarnain-cc34/MoleVision"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Zulqarnain-cc34&repo=MoleVision&theme=tokyonight&hide_border=true" alt="MoleVision"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Zulqarnain-cc34/Neural-Network-From-Scratch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Zulqarnain-cc34&repo=Neural-Network-From-Scratch&theme=tokyonight&hide_border=true" alt="Neural-Network-From-Scratch"></a></td>
+    <td align="center"><a href="https://github.com/Zulqarnain-cc34/StyleGenius"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Zulqarnain-cc34&repo=StyleGenius&theme=tokyonight&hide_border=true" alt="StyleGenius"></a></td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Skills &amp; Tech Stack
+
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><b>ML / AI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white">
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
+      <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Mobile</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Database</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+      <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white">
+      <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white">
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zulqarnain-cc34&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zulqarnain-cc34&layout=compact&theme=tokyonight&hide_border=true" alt="top languages">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zulqarnain-cc34&theme=tokyonight&hide_border=true" alt="streak">
+</p>
